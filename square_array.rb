@@ -4,5 +4,5 @@ array.each do |index|
   x=index**2
   numbers<< x
 end
-puts numbers
+return numbers
 end
