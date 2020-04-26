@@ -6,3 +6,4 @@ array.each do |index|
 end
   puts numbers
 end
+end
