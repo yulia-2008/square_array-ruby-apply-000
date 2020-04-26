@@ -4,5 +4,5 @@ array.each do |index|
   index**=2
   numbers<< index
 end
-  put numbers
+  puts numbers
 end
