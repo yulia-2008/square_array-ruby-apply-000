@@ -3,7 +3,7 @@ def square_array(array)
 array.each do |index|
   index.to_i
   numbers<< index**
-end
+
   puts numbers
 end
 end
